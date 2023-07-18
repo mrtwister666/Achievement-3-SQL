@@ -31,5 +31,5 @@ The information was provided by a set of tables containing data:
 
 ## Sources and Visualisations
 The source of the data was provided to me from Rockbuster. Visualizations were created using Excel and Tableau.
-Reference to the Tableu map [here](https://public.tableau.com/app/profile/ziv.sebban/viz/Topcities_16868595871280/Sheet1)https://public.tableau.com/app/profile/ziv.sebban/viz/Topcities_16868595871280/Sheet1
+Reference to the Tableu map [here](https://public.tableau.com/app/profile/ziv.sebban/viz/Topcities_16868595871280/Sheet1)
 
