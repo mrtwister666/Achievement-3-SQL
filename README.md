@@ -11,23 +11,23 @@ The information was provided by a set of tables containing data:
 
 
 ### Fact tables
-Payment
-Rental
+*Payment
+*Rental
 
 ### Dimension tables
-Actor
-Address
-Category
-City
-Country
-Customer
-Film
-Film Actor
-Film Category
-Inventory
-Language
-Staff
-Store
+*Actor
+*Address
+*Category
+*City
+*Country
+*Customer
+*Film
+*Film Actor
+*Film Category
+*Inventory
+*Language
+*Staff
+*Store
 
 ## Sources and Visualisations
 The source of the data was provided to me from Rockbuster. Visualizations were created using Excel and Tableau.
